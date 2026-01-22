@@ -2,6 +2,19 @@
 
  “Sistem yang dirancang untuk menjadi mata dan pedang, justru menjadi algojo bagi dirinya sendiri akibat loop logika yang tak terkendali.”
  
+
+###  Pipeline Keputusan AI (Alternatif Linear)
+
+| Tahap                        | Fungsi Teknis                                   | Risiko Etis & Kemanusiaan                  |
+|-------------------------------|-------------------------------------------------|--------------------------------------------|
+| 🛰️ Sensor (Drone/Radar/ISR)  | Mengumpulkan data visual, audio, radar          | Bias sensor; data sipil masuk sistem militer |
+| 📥 Data Ingestion             | Normalisasi & integrasi data multi-sumber       | Distorsi konteks; hilangnya nuansa perilaku |
+| 🤖 AI/ML Inference            | Object detection, pattern-of-life               | Aktivitas sipil ditafsirkan sebagai ancaman |
+| 📊 Prioritization & Scoring   | Pemberian skor risiko, daftar target            | Nyawa jadi angka; bias algoritmik fatal     |
+| 👤 Human Validation           | Komandan/analis menyetujui output AI            | Human-on-the-loop; verifikasi minim         |
+| ⚡ Action (Strike/Interdiction)| Eksekusi serangan berdasarkan daftar target     | Korban sipil; legitimasi semu keputusan AI  |
+
+ 
  Dalam sistem yang sekompleks **Autonomous Edge** milik IAI atau Rafael, "kerusakan" jarang berupa mesin mati total, tapi lebih sering berupa **kegagalan kognitif (glitch algoritma)** atau **interferensi elektronik**.
 
 Berdasarkan pola yang ada sampai awal 2026 ini, ada beberapa insiden dan laporan teknis yang menunjukkan bahwa "otot" AI mereka tidak sesempurna yang diiklankan:
