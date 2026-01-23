@@ -58,5 +58,24 @@ Bahwa klaim "AI Militer" itu hebat sebenarnya rapuh terhadap:
 * **Debu/Asap** (menghalangi sensor optik).
 * **Spoofing Sinyal** (menghancurkan navigasi).
 * **Bias Data** (menghancurkan akurasi target).
-
+---
  
+# ⚖️ LEGAL & ETHICAL DISCLAIMER
+
+### 1. Purpose of Research
+Repositari ini (**Kanibalisme-Algoritma**) dibuat murni untuk tujuan **Analisis Risiko, Audit Keamanan Sistem, dan Studi Etika Kecerdasan Buatan**. Fokus utama riset ini adalah mengidentifikasi potensi kegagalan sistemik (Systemic Failure) pada algoritma otonom yang dapat membahayakan integritas data dan nyawa manusia.
+
+### 2. Independent Audit
+Seluruh konten dalam repositari ini merupakan hasil deduksi logis berdasarkan data publik, dokumentasi teknis terbuka, dan simulasi teoretis. Auditor (**BlacK**) tidak memiliki afiliasi dengan organisasi militer atau entitas politik mana pun.
+
+### 3. Non-Violence & Defensive Logic
+Riset ini tidak mengandung instruksi untuk aktivitas ilegal, peretasan (hacking), atau tindakan destruktif. Sebaliknya, riset ini mengusulkan **Protokol Terminasi Aman (Safe Shutdown)** untuk mencegah malfungsi sistem yang tidak terkendali (Algorithmic Cannibalism). Kami mendukung penggunaan teknologi yang 100% akuntabel dan transparan.
+
+### 4. Limited Liability
+Informasi yang disediakan adalah untuk tujuan pendidikan dan kesadaran publik terhadap risiko AI militer. Penulis tidak bertanggung jawab atas penyalahgunaan informasi ini oleh pihak ketiga.
+
+### 5. Intellectual Property
+Seluruh konsep mengenai "Kanibalisme Algoritma" dan "Logic Collision" diarsipkan sebagai dokumentasi publik untuk memastikan akses universal terhadap keamanan algoritma.
+
+---
+*"In the age of autonomous systems, transparency is the only safety gear we have left."*   
